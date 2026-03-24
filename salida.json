@@ -1,0 +1,3046 @@
+{
+  "audio_file": "D:\\proyectos python\\whisper\\downloads\\Juan Rulfo ： En el hidrante las gotas [Voz de autor].mp3",
+  "model": "large-v3",
+  "language": "es",
+  "text": "En el hidrante las gotas caen una tras otra. Uno oye salida de la piedra, el agua clara caer sobre el cántaro. Uno oye. Oye rumores, pies que raspan el suelo, que caminan, que van y vienen. Las gotas siguen cayendo sin cesar. El cántaro se desborda haciendo rodar el agua sobre un suelo mojado. Despierta, le dicen. Reconoce el sonido de la voz, trata de adivinar quién es, pero el cuerpo se afloja y cae adormecido, aplastado por el peso del sueño. Unas manos estiran las cobijas, prendiéndose de la cabeza, y debajo de ellas y debajo de su calor el cuerpo se esconde buscando la paz. Despiértate, vuelven a decir. La voz acude los hombros, hace enderezar el cuerpo, entreabre los ojos. Se oyen las gotas de agua que caen del hidrante sobre el cántaro raso. Se oyen pasos que se arrastran, y el llanto. Entonces oyó el llanto. Eso lo despertó. Un llanto suave, delgado, que quizá por delgado pudo traspasar la maraña del sueño llegando hasta el lugar donde anidan los sobresaltos. Se levantó despacio y vio la cara de una mujer recostada contra el marco de la puerta, oscurecida todavía por la noche, sollozando. ¿Por qué lloras, madre? preguntó. Pues en cuanto puso los pies en el suelo reconoció el rostro de su madre. Tu padre ha muerto, le dijo. Y luego, como si le hubieran soltado los resortes de su pena, se dio vuelta sobre sí misma una y otra vez, una y otra vez, hasta que unas manos llegaron hasta sus hombros y lograron detener el rebullir de su cuerpo. Por la puerta se veía el amanecer en el cielo. No había estrellas. Solo un cielo plomizo, gris, aún no aclarado por la luminosidad del sol. Una luz parda, como si no fuera a comenzar el día, sino como si apenas estuviera llegando el principio de la noche. Afuera, en el patio, los pasos, los pasos de la noche, los pasos de la noche, como de gente que ronda, ruidos callados. Y aquí, aquella mujer de pie en el umbral, su cuerpo impidiendo la llegada del día, dejando asomar a través de sus brazos retazos de cielo y debajo de sus pies regueros de luz. Una luz asperjada como si el suelo debajo de ella estuviera anegado en lágrimas. Y después el sollozo. Otra vez el llanto suave pero agudo y la pena haciendo retorcer su cuerpo. Han matado a tu padre. ¿Y a ti quién te mató, madre?",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.4,
+      "text": "En el hidrante las gotas caen una tras otra.",
+      "words": [
+        {
+          "word": " En",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.9195047616958618
+        },
+        {
+          "word": " el",
+          "start": 0.4,
+          "end": 0.58,
+          "probability": 0.9996412992477417
+        },
+        {
+          "word": " hidrante",
+          "start": 0.58,
+          "end": 1.06,
+          "probability": 0.9979028304417928
+        },
+        {
+          "word": " las",
+          "start": 1.06,
+          "end": 1.3,
+          "probability": 0.9914632439613342
+        },
+        {
+          "word": " gotas",
+          "start": 1.3,
+          "end": 1.94,
+          "probability": 0.9998772442340851
+        },
+        {
+          "word": " caen",
+          "start": 1.94,
+          "end": 2.4,
+          "probability": 0.9998997747898102
+        },
+        {
+          "word": " una",
+          "start": 2.4,
+          "end": 2.64,
+          "probability": 0.9953954815864563
+        },
+        {
+          "word": " tras",
+          "start": 2.64,
+          "end": 2.88,
+          "probability": 0.9996778964996338
+        },
+        {
+          "word": " otra.",
+          "start": 2.88,
+          "end": 3.4,
+          "probability": 0.9999328851699829
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 5.38,
+      "end": 9.82,
+      "text": "Uno oye salida de la piedra, el agua clara caer sobre el cántaro.",
+      "words": [
+        {
+          "word": " Uno",
+          "start": 5.06,
+          "end": 5.48,
+          "probability": 0.9993264675140381
+        },
+        {
+          "word": " oye",
+          "start": 5.48,
+          "end": 5.96,
+          "probability": 0.9998799562454224
+        },
+        {
+          "word": " salida",
+          "start": 5.96,
+          "end": 6.62,
+          "probability": 0.8836885690689087
+        },
+        {
+          "word": " de",
+          "start": 6.62,
+          "end": 6.7,
+          "probability": 0.9998767375946045
+        },
+        {
+          "word": " la",
+          "start": 6.7,
+          "end": 6.78,
+          "probability": 0.9999366998672485
+        },
+        {
+          "word": " piedra,",
+          "start": 6.78,
+          "end": 7.42,
+          "probability": 0.999847799539566
+        },
+        {
+          "word": " el",
+          "start": 7.42,
+          "end": 7.58,
+          "probability": 0.9919124841690063
+        },
+        {
+          "word": " agua",
+          "start": 7.58,
+          "end": 7.84,
+          "probability": 0.9999573230743408
+        },
+        {
+          "word": " clara",
+          "start": 7.84,
+          "end": 8.36,
+          "probability": 0.998916894197464
+        },
+        {
+          "word": " caer",
+          "start": 8.36,
+          "end": 8.8,
+          "probability": 0.9953031539916992
+        },
+        {
+          "word": " sobre",
+          "start": 8.8,
+          "end": 9.04,
+          "probability": 0.9998573064804077
+        },
+        {
+          "word": " el",
+          "start": 9.04,
+          "end": 9.24,
+          "probability": 0.9999089241027832
+        },
+        {
+          "word": " cántaro.",
+          "start": 9.24,
+          "end": 9.82,
+          "probability": 0.9976125359535217
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 11.56,
+      "end": 12.18,
+      "text": "Uno oye.",
+      "words": [
+        {
+          "word": " Uno",
+          "start": 11.28,
+          "end": 11.7,
+          "probability": 0.9996985197067261
+        },
+        {
+          "word": " oye.",
+          "start": 11.7,
+          "end": 12.18,
+          "probability": 0.9998789727687836
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.6,
+      "end": 22.02,
+      "text": "Oye rumores, pies que raspan el suelo, que caminan, que van y vienen.",
+      "words": [
+        {
+          "word": " Oye",
+          "start": 13.6,
+          "end": 14.44,
+          "probability": 0.998482346534729
+        },
+        {
+          "word": " rumores,",
+          "start": 14.44,
+          "end": 15.2,
+          "probability": 0.999527245759964
+        },
+        {
+          "word": " pies",
+          "start": 15.38,
+          "end": 16.92,
+          "probability": 0.9996423721313477
+        },
+        {
+          "word": " que",
+          "start": 16.92,
+          "end": 17.16,
+          "probability": 0.9999487400054932
+        },
+        {
+          "word": " raspan",
+          "start": 17.16,
+          "end": 17.7,
+          "probability": 0.9917585551738739
+        },
+        {
+          "word": " el",
+          "start": 17.7,
+          "end": 17.86,
+          "probability": 0.9998507499694824
+        },
+        {
+          "word": " suelo,",
+          "start": 17.86,
+          "end": 18.48,
+          "probability": 0.9994734823703766
+        },
+        {
+          "word": " que",
+          "start": 18.58,
+          "end": 19.62,
+          "probability": 0.998913049697876
+        },
+        {
+          "word": " caminan,",
+          "start": 19.62,
+          "end": 20.48,
+          "probability": 0.9998138745625814
+        },
+        {
+          "word": " que",
+          "start": 20.48,
+          "end": 21.24,
+          "probability": 0.9999083280563354
+        },
+        {
+          "word": " van",
+          "start": 21.24,
+          "end": 21.5,
+          "probability": 0.999944806098938
+        },
+        {
+          "word": " y",
+          "start": 21.5,
+          "end": 21.64,
+          "probability": 0.9999381303787231
+        },
+        {
+          "word": " vienen.",
+          "start": 21.64,
+          "end": 22.02,
+          "probability": 0.999936580657959
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 24.02,
+      "end": 26.36,
+      "text": "Las gotas siguen cayendo sin cesar.",
+      "words": [
+        {
+          "word": " Las",
+          "start": 23.74,
+          "end": 24.16,
+          "probability": 0.9975401163101196
+        },
+        {
+          "word": " gotas",
+          "start": 24.16,
+          "end": 24.64,
+          "probability": 0.9999582767486572
+        },
+        {
+          "word": " siguen",
+          "start": 24.64,
+          "end": 25.02,
+          "probability": 0.9999026954174042
+        },
+        {
+          "word": " cayendo",
+          "start": 25.02,
+          "end": 25.56,
+          "probability": 0.999956488609314
+        },
+        {
+          "word": " sin",
+          "start": 25.56,
+          "end": 25.72,
+          "probability": 0.9998716115951538
+        },
+        {
+          "word": " cesar.",
+          "start": 25.72,
+          "end": 26.36,
+          "probability": 0.999558299779892
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 27.319999999999997,
+      "end": 32.24,
+      "text": "El cántaro se desborda haciendo rodar el agua sobre un suelo mojado.",
+      "words": [
+        {
+          "word": " El",
+          "start": 27.319999999999997,
+          "end": 28.04,
+          "probability": 0.4916323125362396
+        },
+        {
+          "word": " cántaro",
+          "start": 28.04,
+          "end": 28.72,
+          "probability": 0.9986021916071574
+        },
+        {
+          "word": " se",
+          "start": 28.72,
+          "end": 28.88,
+          "probability": 0.9990221261978149
+        },
+        {
+          "word": " desborda",
+          "start": 28.88,
+          "end": 29.62,
+          "probability": 0.9998708218336105
+        },
+        {
+          "word": " haciendo",
+          "start": 29.62,
+          "end": 29.78,
+          "probability": 0.9507178068161011
+        },
+        {
+          "word": " rodar",
+          "start": 29.78,
+          "end": 30.48,
+          "probability": 0.999596506357193
+        },
+        {
+          "word": " el",
+          "start": 30.48,
+          "end": 30.56,
+          "probability": 0.9990308284759521
+        },
+        {
+          "word": " agua",
+          "start": 30.56,
+          "end": 30.9,
+          "probability": 0.9998214840888977
+        },
+        {
+          "word": " sobre",
+          "start": 30.9,
+          "end": 31.22,
+          "probability": 0.9984979629516602
+        },
+        {
+          "word": " un",
+          "start": 31.22,
+          "end": 31.38,
+          "probability": 0.9991657733917236
+        },
+        {
+          "word": " suelo",
+          "start": 31.38,
+          "end": 31.76,
+          "probability": 0.9997483491897583
+        },
+        {
+          "word": " mojado.",
+          "start": 31.76,
+          "end": 32.24,
+          "probability": 0.9999074339866638
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 34.76,
+      "end": 36.0,
+      "text": "Despierta, le dicen.",
+      "words": [
+        {
+          "word": " Despierta,",
+          "start": 34.76,
+          "end": 35.48,
+          "probability": 0.6086890399456024
+        },
+        {
+          "word": " le",
+          "start": 35.48,
+          "end": 35.64,
+          "probability": 0.9997140765190125
+        },
+        {
+          "word": " dicen.",
+          "start": 35.64,
+          "end": 36.0,
+          "probability": 0.9976279139518738
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 38.06,
+      "end": 43.24,
+      "text": "Reconoce el sonido de la voz, trata de adivinar quién es,",
+      "words": [
+        {
+          "word": " Reconoce",
+          "start": 38.06,
+          "end": 38.78,
+          "probability": 0.9960032900174459
+        },
+        {
+          "word": " el",
+          "start": 38.78,
+          "end": 38.92,
+          "probability": 0.9998608827590942
+        },
+        {
+          "word": " sonido",
+          "start": 38.92,
+          "end": 39.38,
+          "probability": 0.9999057352542877
+        },
+        {
+          "word": " de",
+          "start": 39.38,
+          "end": 39.56,
+          "probability": 0.999833345413208
+        },
+        {
+          "word": " la",
+          "start": 39.56,
+          "end": 39.62,
+          "probability": 0.9996819496154785
+        },
+        {
+          "word": " voz,",
+          "start": 39.62,
+          "end": 40.0,
+          "probability": 0.9997813105583191
+        },
+        {
+          "word": " trata",
+          "start": 40.28,
+          "end": 41.92,
+          "probability": 0.989129900932312
+        },
+        {
+          "word": " de",
+          "start": 41.92,
+          "end": 42.18,
+          "probability": 0.9991652965545654
+        },
+        {
+          "word": " adivinar",
+          "start": 42.18,
+          "end": 42.56,
+          "probability": 0.991780420144399
+        },
+        {
+          "word": " quién",
+          "start": 42.56,
+          "end": 42.8,
+          "probability": 0.9982621073722839
+        },
+        {
+          "word": " es,",
+          "start": 42.8,
+          "end": 43.24,
+          "probability": 0.9999396800994873
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 44.46,
+      "end": 51.44,
+      "text": "pero el cuerpo se afloja y cae adormecido, aplastado por el peso del sueño.",
+      "words": [
+        {
+          "word": " pero",
+          "start": 44.12,
+          "end": 44.48,
+          "probability": 0.9964336156845093
+        },
+        {
+          "word": " el",
+          "start": 44.48,
+          "end": 44.68,
+          "probability": 0.9995784163475037
+        },
+        {
+          "word": " cuerpo",
+          "start": 44.68,
+          "end": 45.2,
+          "probability": 0.9999353885650635
+        },
+        {
+          "word": " se",
+          "start": 45.2,
+          "end": 45.36,
+          "probability": 0.9998062252998352
+        },
+        {
+          "word": " afloja",
+          "start": 45.36,
+          "end": 46.0,
+          "probability": 0.9997976819674174
+        },
+        {
+          "word": " y",
+          "start": 46.0,
+          "end": 46.64,
+          "probability": 0.9992842078208923
+        },
+        {
+          "word": " cae",
+          "start": 46.64,
+          "end": 47.18,
+          "probability": 0.999554306268692
+        },
+        {
+          "word": " adormecido,",
+          "start": 47.18,
+          "end": 48.1,
+          "probability": 0.9998615831136703
+        },
+        {
+          "word": " aplastado",
+          "start": 48.16,
+          "end": 50.06,
+          "probability": 0.9997447729110718
+        },
+        {
+          "word": " por",
+          "start": 50.06,
+          "end": 50.32,
+          "probability": 0.9997183680534363
+        },
+        {
+          "word": " el",
+          "start": 50.32,
+          "end": 50.46,
+          "probability": 0.9997368454933167
+        },
+        {
+          "word": " peso",
+          "start": 50.46,
+          "end": 50.82,
+          "probability": 0.9984248876571655
+        },
+        {
+          "word": " del",
+          "start": 50.82,
+          "end": 51.0,
+          "probability": 0.9997708201408386
+        },
+        {
+          "word": " sueño.",
+          "start": 51.0,
+          "end": 51.44,
+          "probability": 0.9949326515197754
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 53.2,
+      "end": 55.46,
+      "text": "Unas manos estiran las cobijas,",
+      "words": [
+        {
+          "word": " Unas",
+          "start": 53.2,
+          "end": 53.92,
+          "probability": 0.9963558316230774
+        },
+        {
+          "word": " manos",
+          "start": 53.92,
+          "end": 54.24,
+          "probability": 0.999843955039978
+        },
+        {
+          "word": " estiran",
+          "start": 54.24,
+          "end": 54.7,
+          "probability": 0.9828599095344543
+        },
+        {
+          "word": " las",
+          "start": 54.7,
+          "end": 54.82,
+          "probability": 0.999278724193573
+        },
+        {
+          "word": " cobijas,",
+          "start": 54.82,
+          "end": 55.46,
+          "probability": 0.9988181988398234
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 55.46,
+      "end": 56.34,
+      "text": "prendiéndose de la cabeza,",
+      "words": [
+        {
+          "word": " prendiéndose",
+          "start": 55.46,
+          "end": 56.2,
+          "probability": 0.991484209895134
+        },
+        {
+          "word": " de",
+          "start": 56.2,
+          "end": 56.34,
+          "probability": 0.5476993322372437
+        },
+        {
+          "word": " la",
+          "start": 56.34,
+          "end": 56.34,
+          "probability": 0.24632243812084198
+        },
+        {
+          "word": " cabeza,",
+          "start": 56.34,
+          "end": 56.34,
+          "probability": 0.2313811480998993
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 56.34,
+      "end": 60.28,
+      "text": "y debajo de ellas y debajo de su calor el cuerpo se esconde buscando la paz.",
+      "words": [
+        {
+          "word": " y",
+          "start": 56.34,
+          "end": 56.48,
+          "probability": 0.2896834909915924
+        },
+        {
+          "word": " debajo",
+          "start": 56.48,
+          "end": 56.5,
+          "probability": 0.9756109714508057
+        },
+        {
+          "word": " de",
+          "start": 56.5,
+          "end": 56.5,
+          "probability": 0.9991162419319153
+        },
+        {
+          "word": " ellas",
+          "start": 56.5,
+          "end": 56.5,
+          "probability": 0.00017299415776506066
+        },
+        {
+          "word": " y",
+          "start": 56.5,
+          "end": 56.88,
+          "probability": 0.9457169771194458
+        },
+        {
+          "word": " debajo",
+          "start": 56.88,
+          "end": 57.34,
+          "probability": 0.9971499443054199
+        },
+        {
+          "word": " de",
+          "start": 57.34,
+          "end": 57.44,
+          "probability": 0.9996789693832397
+        },
+        {
+          "word": " su",
+          "start": 57.44,
+          "end": 57.56,
+          "probability": 0.9997162222862244
+        },
+        {
+          "word": " calor",
+          "start": 57.56,
+          "end": 57.94,
+          "probability": 0.9995995163917542
+        },
+        {
+          "word": " el",
+          "start": 57.94,
+          "end": 58.2,
+          "probability": 0.9410852193832397
+        },
+        {
+          "word": " cuerpo",
+          "start": 58.2,
+          "end": 58.56,
+          "probability": 0.9997969269752502
+        },
+        {
+          "word": " se",
+          "start": 58.56,
+          "end": 58.84,
+          "probability": 0.9995388984680176
+        },
+        {
+          "word": " esconde",
+          "start": 58.84,
+          "end": 59.28,
+          "probability": 0.9998112618923187
+        },
+        {
+          "word": " buscando",
+          "start": 59.28,
+          "end": 59.5,
+          "probability": 0.9991194605827332
+        },
+        {
+          "word": " la",
+          "start": 59.5,
+          "end": 59.98,
+          "probability": 0.9998289346694946
+        },
+        {
+          "word": " paz.",
+          "start": 59.98,
+          "end": 60.28,
+          "probability": 0.9998088479042053
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 63.480000000000004,
+      "end": 65.34,
+      "text": "Despiértate, vuelven a decir.",
+      "words": [
+        {
+          "word": " Despiértate,",
+          "start": 63.480000000000004,
+          "end": 64.2,
+          "probability": 0.7799266092479229
+        },
+        {
+          "word": " vuelven",
+          "start": 64.2,
+          "end": 64.92,
+          "probability": 0.999634861946106
+        },
+        {
+          "word": " a",
+          "start": 64.92,
+          "end": 65.06,
+          "probability": 0.9999417066574097
+        },
+        {
+          "word": " decir.",
+          "start": 65.06,
+          "end": 65.34,
+          "probability": 0.9999498128890991
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 66.8,
+      "end": 73.36,
+      "text": "La voz acude los hombros, hace enderezar el cuerpo, entreabre los ojos.",
+      "words": [
+        {
+          "word": " La",
+          "start": 66.8,
+          "end": 67.52,
+          "probability": 0.9996740818023682
+        },
+        {
+          "word": " voz",
+          "start": 67.52,
+          "end": 67.74,
+          "probability": 0.9996459484100342
+        },
+        {
+          "word": " acude",
+          "start": 67.74,
+          "end": 68.24,
+          "probability": 0.802600085735321
+        },
+        {
+          "word": " los",
+          "start": 68.24,
+          "end": 68.36,
+          "probability": 0.8338832855224609
+        },
+        {
+          "word": " hombros,",
+          "start": 68.36,
+          "end": 68.98,
+          "probability": 0.9998586475849152
+        },
+        {
+          "word": " hace",
+          "start": 69.28,
+          "end": 70.16,
+          "probability": 0.9756457209587097
+        },
+        {
+          "word": " enderezar",
+          "start": 70.16,
+          "end": 70.68,
+          "probability": 0.9980895519256592
+        },
+        {
+          "word": " el",
+          "start": 70.68,
+          "end": 70.84,
+          "probability": 0.99983811378479
+        },
+        {
+          "word": " cuerpo,",
+          "start": 70.84,
+          "end": 71.42,
+          "probability": 0.999995231628418
+        },
+        {
+          "word": " entreabre",
+          "start": 71.62,
+          "end": 72.7,
+          "probability": 0.9879591862360636
+        },
+        {
+          "word": " los",
+          "start": 72.7,
+          "end": 72.86,
+          "probability": 0.999977707862854
+        },
+        {
+          "word": " ojos.",
+          "start": 72.86,
+          "end": 73.36,
+          "probability": 0.9999936819076538
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 74.44,
+      "end": 80.06,
+      "text": "Se oyen las gotas de agua que caen del hidrante sobre el cántaro raso.",
+      "words": [
+        {
+          "word": " Se",
+          "start": 74.44,
+          "end": 75.16,
+          "probability": 0.511470377445221
+        },
+        {
+          "word": " oyen",
+          "start": 75.16,
+          "end": 75.4,
+          "probability": 0.9759728014469147
+        },
+        {
+          "word": " las",
+          "start": 75.4,
+          "end": 75.52,
+          "probability": 0.9999531507492065
+        },
+        {
+          "word": " gotas",
+          "start": 75.52,
+          "end": 76.08,
+          "probability": 0.9999313950538635
+        },
+        {
+          "word": " de",
+          "start": 76.08,
+          "end": 76.14,
+          "probability": 0.999984622001648
+        },
+        {
+          "word": " agua",
+          "start": 76.14,
+          "end": 76.48,
+          "probability": 0.9999850988388062
+        },
+        {
+          "word": " que",
+          "start": 76.48,
+          "end": 76.7,
+          "probability": 0.99991774559021
+        },
+        {
+          "word": " caen",
+          "start": 76.7,
+          "end": 77.14,
+          "probability": 0.9999597072601318
+        },
+        {
+          "word": " del",
+          "start": 77.14,
+          "end": 77.72,
+          "probability": 0.9955572485923767
+        },
+        {
+          "word": " hidrante",
+          "start": 77.72,
+          "end": 78.26,
+          "probability": 0.9976967374483744
+        },
+        {
+          "word": " sobre",
+          "start": 78.26,
+          "end": 78.58,
+          "probability": 0.9998791217803955
+        },
+        {
+          "word": " el",
+          "start": 78.58,
+          "end": 78.74,
+          "probability": 0.9999710321426392
+        },
+        {
+          "word": " cántaro",
+          "start": 78.74,
+          "end": 79.32,
+          "probability": 0.9990583260854086
+        },
+        {
+          "word": " raso.",
+          "start": 79.32,
+          "end": 80.06,
+          "probability": 0.9966898262500763
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 80.7,
+      "end": 85.44,
+      "text": "Se oyen pasos que se arrastran, y el llanto.",
+      "words": [
+        {
+          "word": " Se",
+          "start": 80.7,
+          "end": 81.42,
+          "probability": 0.9994192123413086
+        },
+        {
+          "word": " oyen",
+          "start": 81.42,
+          "end": 81.7,
+          "probability": 0.9998975694179535
+        },
+        {
+          "word": " pasos",
+          "start": 81.7,
+          "end": 82.28,
+          "probability": 0.9999292492866516
+        },
+        {
+          "word": " que",
+          "start": 82.28,
+          "end": 82.46,
+          "probability": 0.9999445676803589
+        },
+        {
+          "word": " se",
+          "start": 82.46,
+          "end": 82.52,
+          "probability": 0.9999837875366211
+        },
+        {
+          "word": " arrastran,",
+          "start": 82.52,
+          "end": 83.34,
+          "probability": 0.9999574025472006
+        },
+        {
+          "word": " y",
+          "start": 83.44,
+          "end": 84.66,
+          "probability": 0.9981820583343506
+        },
+        {
+          "word": " el",
+          "start": 84.66,
+          "end": 84.82,
+          "probability": 0.9998503923416138
+        },
+        {
+          "word": " llanto.",
+          "start": 84.82,
+          "end": 85.44,
+          "probability": 0.9997636079788208
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 87.46,
+      "end": 89.6,
+      "text": "Entonces oyó el llanto.",
+      "words": [
+        {
+          "word": " Entonces",
+          "start": 87.46,
+          "end": 88.24,
+          "probability": 0.9445272088050842
+        },
+        {
+          "word": " oyó",
+          "start": 88.24,
+          "end": 88.76,
+          "probability": 0.9871162176132202
+        },
+        {
+          "word": " el",
+          "start": 88.76,
+          "end": 88.86,
+          "probability": 0.9737286567687988
+        },
+        {
+          "word": " llanto.",
+          "start": 88.86,
+          "end": 89.6,
+          "probability": 0.999891459941864
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 90.84,
+      "end": 91.86,
+      "text": "Eso lo despertó.",
+      "words": [
+        {
+          "word": " Eso",
+          "start": 90.57,
+          "end": 90.96,
+          "probability": 0.9984436631202698
+        },
+        {
+          "word": " lo",
+          "start": 90.96,
+          "end": 91.16,
+          "probability": 0.9999115467071533
+        },
+        {
+          "word": " despertó.",
+          "start": 91.16,
+          "end": 91.86,
+          "probability": 0.9996896982192993
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 92.68,
+      "end": 99.76,
+      "text": "Un llanto suave, delgado, que quizá por delgado pudo traspasar la maraña del sueño",
+      "words": [
+        {
+          "word": " Un",
+          "start": 92.68,
+          "end": 93.46,
+          "probability": 0.9980667233467102
+        },
+        {
+          "word": " llanto",
+          "start": 93.46,
+          "end": 93.92,
+          "probability": 0.9999300241470337
+        },
+        {
+          "word": " suave,",
+          "start": 93.92,
+          "end": 94.6,
+          "probability": 0.9998230934143066
+        },
+        {
+          "word": " delgado,",
+          "start": 94.64,
+          "end": 95.28,
+          "probability": 0.9995765089988708
+        },
+        {
+          "word": " que",
+          "start": 95.4,
+          "end": 95.98,
+          "probability": 0.9965747594833374
+        },
+        {
+          "word": " quizá",
+          "start": 95.98,
+          "end": 96.42,
+          "probability": 0.9942119121551514
+        },
+        {
+          "word": " por",
+          "start": 96.42,
+          "end": 96.6,
+          "probability": 0.9999030828475952
+        },
+        {
+          "word": " delgado",
+          "start": 96.6,
+          "end": 97.14,
+          "probability": 0.9997827112674713
+        },
+        {
+          "word": " pudo",
+          "start": 97.14,
+          "end": 97.64,
+          "probability": 0.9975312352180481
+        },
+        {
+          "word": " traspasar",
+          "start": 97.64,
+          "end": 98.4,
+          "probability": 0.9997939020395279
+        },
+        {
+          "word": " la",
+          "start": 98.4,
+          "end": 98.52,
+          "probability": 0.9997031092643738
+        },
+        {
+          "word": " maraña",
+          "start": 98.52,
+          "end": 99.02,
+          "probability": 0.9846605261166891
+        },
+        {
+          "word": " del",
+          "start": 99.02,
+          "end": 99.18,
+          "probability": 0.9997066855430603
+        },
+        {
+          "word": " sueño",
+          "start": 99.18,
+          "end": 99.76,
+          "probability": 0.9999361634254456
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 99.76,
+      "end": 102.34,
+      "text": "llegando hasta el lugar donde anidan los sobresaltos.",
+      "words": [
+        {
+          "word": " llegando",
+          "start": 99.76,
+          "end": 100.28,
+          "probability": 0.8432104289531708
+        },
+        {
+          "word": " hasta",
+          "start": 100.28,
+          "end": 100.52,
+          "probability": 0.9865850210189819
+        },
+        {
+          "word": " el",
+          "start": 100.52,
+          "end": 100.78,
+          "probability": 0.9999737739562988
+        },
+        {
+          "word": " lugar",
+          "start": 100.78,
+          "end": 101.02,
+          "probability": 0.9999593496322632
+        },
+        {
+          "word": " donde",
+          "start": 101.02,
+          "end": 101.32,
+          "probability": 0.9996911287307739
+        },
+        {
+          "word": " anidan",
+          "start": 101.32,
+          "end": 101.74,
+          "probability": 0.9908362030982971
+        },
+        {
+          "word": " los",
+          "start": 101.74,
+          "end": 101.94,
+          "probability": 0.9997161030769348
+        },
+        {
+          "word": " sobresaltos.",
+          "start": 101.94,
+          "end": 102.34,
+          "probability": 0.9921598583459854
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 106.12,
+      "end": 111.7,
+      "text": "Se levantó despacio y vio la cara de una mujer recostada contra el marco de la puerta,",
+      "words": [
+        {
+          "word": " Se",
+          "start": 106.12,
+          "end": 106.9,
+          "probability": 0.9973114728927612
+        },
+        {
+          "word": " levantó",
+          "start": 106.9,
+          "end": 107.46,
+          "probability": 0.9999724626541138
+        },
+        {
+          "word": " despacio",
+          "start": 107.46,
+          "end": 108.04,
+          "probability": 0.9998822212219238
+        },
+        {
+          "word": " y",
+          "start": 108.04,
+          "end": 108.18,
+          "probability": 0.9997616410255432
+        },
+        {
+          "word": " vio",
+          "start": 108.18,
+          "end": 108.34,
+          "probability": 0.9992753565311432
+        },
+        {
+          "word": " la",
+          "start": 108.34,
+          "end": 108.46,
+          "probability": 0.9997627139091492
+        },
+        {
+          "word": " cara",
+          "start": 108.46,
+          "end": 108.8,
+          "probability": 0.9994003772735596
+        },
+        {
+          "word": " de",
+          "start": 108.8,
+          "end": 108.92,
+          "probability": 0.9999250173568726
+        },
+        {
+          "word": " una",
+          "start": 108.92,
+          "end": 109.06,
+          "probability": 0.9995254278182983
+        },
+        {
+          "word": " mujer",
+          "start": 109.06,
+          "end": 109.38,
+          "probability": 0.9998844861984253
+        },
+        {
+          "word": " recostada",
+          "start": 109.38,
+          "end": 110.1,
+          "probability": 0.9978698492050171
+        },
+        {
+          "word": " contra",
+          "start": 110.1,
+          "end": 110.46,
+          "probability": 0.996619701385498
+        },
+        {
+          "word": " el",
+          "start": 110.46,
+          "end": 110.7,
+          "probability": 0.9999067783355713
+        },
+        {
+          "word": " marco",
+          "start": 110.7,
+          "end": 111.16,
+          "probability": 0.9966347515583038
+        },
+        {
+          "word": " de",
+          "start": 111.16,
+          "end": 111.2,
+          "probability": 0.999674916267395
+        },
+        {
+          "word": " la",
+          "start": 111.2,
+          "end": 111.28,
+          "probability": 0.9998805522918701
+        },
+        {
+          "word": " puerta,",
+          "start": 111.28,
+          "end": 111.7,
+          "probability": 0.9998821020126343
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 112.5,
+      "end": 115.34,
+      "text": "oscurecida todavía por la noche, sollozando.",
+      "words": [
+        {
+          "word": " oscurecida",
+          "start": 112.5,
+          "end": 112.98,
+          "probability": 0.9940234124660492
+        },
+        {
+          "word": " todavía",
+          "start": 112.98,
+          "end": 113.4,
+          "probability": 0.9996645450592041
+        },
+        {
+          "word": " por",
+          "start": 113.4,
+          "end": 113.84,
+          "probability": 0.9998268485069275
+        },
+        {
+          "word": " la",
+          "start": 113.84,
+          "end": 113.98,
+          "probability": 0.6399902105331421
+        },
+        {
+          "word": " noche,",
+          "start": 113.98,
+          "end": 114.52,
+          "probability": 0.9999567270278931
+        },
+        {
+          "word": " sollozando.",
+          "start": 114.62,
+          "end": 115.34,
+          "probability": 0.9694357812404633
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 117.62,
+      "end": 121.04,
+      "text": "¿Por qué lloras, madre? preguntó.",
+      "words": [
+        {
+          "word": " ¿Por",
+          "start": 117.62,
+          "end": 118.2,
+          "probability": 0.8747016787528992
+        },
+        {
+          "word": " qué",
+          "start": 118.2,
+          "end": 118.38,
+          "probability": 0.9999353885650635
+        },
+        {
+          "word": " lloras,",
+          "start": 118.38,
+          "end": 118.98,
+          "probability": 0.9991403818130493
+        },
+        {
+          "word": " madre?",
+          "start": 118.98,
+          "end": 119.7,
+          "probability": 0.9949607849121094
+        },
+        {
+          "word": " preguntó.",
+          "start": 120.46,
+          "end": 121.04,
+          "probability": 0.9379737377166748
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 122.28,
+      "end": 126.8,
+      "text": "Pues en cuanto puso los pies en el suelo reconoció el rostro de su madre.",
+      "words": [
+        {
+          "word": " Pues",
+          "start": 122.28,
+          "end": 122.86,
+          "probability": 0.997782289981842
+        },
+        {
+          "word": " en",
+          "start": 122.86,
+          "end": 123.04,
+          "probability": 0.9979881048202515
+        },
+        {
+          "word": " cuanto",
+          "start": 123.04,
+          "end": 123.3,
+          "probability": 0.9971643090248108
+        },
+        {
+          "word": " puso",
+          "start": 123.3,
+          "end": 123.66,
+          "probability": 0.9999280571937561
+        },
+        {
+          "word": " los",
+          "start": 123.66,
+          "end": 123.8,
+          "probability": 0.9998959302902222
+        },
+        {
+          "word": " pies",
+          "start": 123.8,
+          "end": 124.1,
+          "probability": 0.9999728202819824
+        },
+        {
+          "word": " en",
+          "start": 124.1,
+          "end": 124.28,
+          "probability": 0.9999674558639526
+        },
+        {
+          "word": " el",
+          "start": 124.28,
+          "end": 124.42,
+          "probability": 0.9999819993972778
+        },
+        {
+          "word": " suelo",
+          "start": 124.42,
+          "end": 124.8,
+          "probability": 0.9998133778572083
+        },
+        {
+          "word": " reconoció",
+          "start": 124.8,
+          "end": 125.44,
+          "probability": 0.8990899523099264
+        },
+        {
+          "word": " el",
+          "start": 125.44,
+          "end": 125.58,
+          "probability": 0.9998264908790588
+        },
+        {
+          "word": " rostro",
+          "start": 125.58,
+          "end": 126.12,
+          "probability": 0.9998698433240255
+        },
+        {
+          "word": " de",
+          "start": 126.12,
+          "end": 126.22,
+          "probability": 0.999840259552002
+        },
+        {
+          "word": " su",
+          "start": 126.22,
+          "end": 126.36,
+          "probability": 0.9998406171798706
+        },
+        {
+          "word": " madre.",
+          "start": 126.36,
+          "end": 126.8,
+          "probability": 0.9998194575309753
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 127.96,
+      "end": 130.24,
+      "text": "Tu padre ha muerto, le dijo.",
+      "words": [
+        {
+          "word": " Tu",
+          "start": 127.96,
+          "end": 128.54,
+          "probability": 0.9875038266181946
+        },
+        {
+          "word": " padre",
+          "start": 128.54,
+          "end": 128.98,
+          "probability": 0.9994900226593018
+        },
+        {
+          "word": " ha",
+          "start": 128.98,
+          "end": 129.14,
+          "probability": 0.9998807907104492
+        },
+        {
+          "word": " muerto,",
+          "start": 129.14,
+          "end": 129.7,
+          "probability": 0.9999517798423767
+        },
+        {
+          "word": " le",
+          "start": 129.78,
+          "end": 129.92,
+          "probability": 0.9998968839645386
+        },
+        {
+          "word": " dijo.",
+          "start": 129.92,
+          "end": 130.24,
+          "probability": 0.9999359846115112
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 131.82000000000002,
+      "end": 135.84,
+      "text": "Y luego, como si le hubieran soltado los resortes de su pena,",
+      "words": [
+        {
+          "word": " Y",
+          "start": 131.82000000000002,
+          "end": 132.4,
+          "probability": 0.9995189905166626
+        },
+        {
+          "word": " luego,",
+          "start": 132.4,
+          "end": 132.78,
+          "probability": 0.9997337460517883
+        },
+        {
+          "word": " como",
+          "start": 132.78,
+          "end": 133.06,
+          "probability": 0.9999494552612305
+        },
+        {
+          "word": " si",
+          "start": 133.06,
+          "end": 133.3,
+          "probability": 0.9999080896377563
+        },
+        {
+          "word": " le",
+          "start": 133.3,
+          "end": 133.44,
+          "probability": 0.9998419284820557
+        },
+        {
+          "word": " hubieran",
+          "start": 133.44,
+          "end": 133.78,
+          "probability": 0.9999393820762634
+        },
+        {
+          "word": " soltado",
+          "start": 133.78,
+          "end": 134.4,
+          "probability": 0.9995526472727457
+        },
+        {
+          "word": " los",
+          "start": 134.4,
+          "end": 134.58,
+          "probability": 0.5989118814468384
+        },
+        {
+          "word": " resortes",
+          "start": 134.58,
+          "end": 135.24,
+          "probability": 0.9742036759853363
+        },
+        {
+          "word": " de",
+          "start": 135.24,
+          "end": 135.34,
+          "probability": 0.5932083129882812
+        },
+        {
+          "word": " su",
+          "start": 135.34,
+          "end": 135.46,
+          "probability": 0.9994200468063354
+        },
+        {
+          "word": " pena,",
+          "start": 135.46,
+          "end": 135.84,
+          "probability": 0.9990818500518799
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 135.86,
+      "end": 138.8,
+      "text": "se dio vuelta sobre sí misma una y otra vez,",
+      "words": [
+        {
+          "word": " se",
+          "start": 135.86,
+          "end": 136.0,
+          "probability": 0.9981691837310791
+        },
+        {
+          "word": " dio",
+          "start": 136.0,
+          "end": 136.16,
+          "probability": 0.9992615580558777
+        },
+        {
+          "word": " vuelta",
+          "start": 136.16,
+          "end": 136.54,
+          "probability": 0.9804327487945557
+        },
+        {
+          "word": " sobre",
+          "start": 136.54,
+          "end": 136.92,
+          "probability": 0.9996916055679321
+        },
+        {
+          "word": " sí",
+          "start": 136.92,
+          "end": 137.14,
+          "probability": 0.9998955726623535
+        },
+        {
+          "word": " misma",
+          "start": 137.14,
+          "end": 137.6,
+          "probability": 0.9998550415039062
+        },
+        {
+          "word": " una",
+          "start": 137.6,
+          "end": 137.94,
+          "probability": 0.9984614849090576
+        },
+        {
+          "word": " y",
+          "start": 137.94,
+          "end": 138.16,
+          "probability": 0.9998641014099121
+        },
+        {
+          "word": " otra",
+          "start": 138.16,
+          "end": 138.4,
+          "probability": 0.9999531507492065
+        },
+        {
+          "word": " vez,",
+          "start": 138.4,
+          "end": 138.8,
+          "probability": 0.9998937845230103
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 139.76000000000002,
+      "end": 143.92,
+      "text": "una y otra vez, hasta que unas manos llegaron hasta sus hombros",
+      "words": [
+        {
+          "word": " una",
+          "start": 139.76000000000002,
+          "end": 140.34,
+          "probability": 0.9675938487052917
+        },
+        {
+          "word": " y",
+          "start": 140.34,
+          "end": 140.6,
+          "probability": 0.9999529123306274
+        },
+        {
+          "word": " otra",
+          "start": 140.6,
+          "end": 140.8,
+          "probability": 0.9999634027481079
+        },
+        {
+          "word": " vez,",
+          "start": 140.8,
+          "end": 141.2,
+          "probability": 0.9998824596405029
+        },
+        {
+          "word": " hasta",
+          "start": 141.22,
+          "end": 141.54,
+          "probability": 0.999180018901825
+        },
+        {
+          "word": " que",
+          "start": 141.54,
+          "end": 141.76,
+          "probability": 0.9999423027038574
+        },
+        {
+          "word": " unas",
+          "start": 141.76,
+          "end": 142.02,
+          "probability": 0.9985877275466919
+        },
+        {
+          "word": " manos",
+          "start": 142.02,
+          "end": 142.52,
+          "probability": 0.9998725652694702
+        },
+        {
+          "word": " llegaron",
+          "start": 142.52,
+          "end": 142.98,
+          "probability": 0.9991744756698608
+        },
+        {
+          "word": " hasta",
+          "start": 142.98,
+          "end": 143.18,
+          "probability": 0.9986864924430847
+        },
+        {
+          "word": " sus",
+          "start": 143.18,
+          "end": 143.42,
+          "probability": 0.9996738433837891
+        },
+        {
+          "word": " hombros",
+          "start": 143.42,
+          "end": 143.92,
+          "probability": 0.9996729493141174
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 143.92,
+      "end": 146.32,
+      "text": "y lograron detener el rebullir de su cuerpo.",
+      "words": [
+        {
+          "word": " y",
+          "start": 143.92,
+          "end": 144.1,
+          "probability": 0.9976683259010315
+        },
+        {
+          "word": " lograron",
+          "start": 144.1,
+          "end": 144.6,
+          "probability": 0.9996881186962128
+        },
+        {
+          "word": " detener",
+          "start": 144.6,
+          "end": 145.06,
+          "probability": 0.9997652769088745
+        },
+        {
+          "word": " el",
+          "start": 145.06,
+          "end": 145.28,
+          "probability": 0.9979374408721924
+        },
+        {
+          "word": " rebullir",
+          "start": 145.28,
+          "end": 145.76,
+          "probability": 0.9701341589291891
+        },
+        {
+          "word": " de",
+          "start": 145.76,
+          "end": 145.88,
+          "probability": 0.9956862926483154
+        },
+        {
+          "word": " su",
+          "start": 145.88,
+          "end": 146.02,
+          "probability": 0.9967703819274902
+        },
+        {
+          "word": " cuerpo.",
+          "start": 146.02,
+          "end": 146.32,
+          "probability": 0.8244812488555908
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 146.32,
+      "end": 146.32,
+      "text": "",
+      "words": []
+    },
+    {
+      "id": 30,
+      "start": 149.14,
+      "end": 152.32,
+      "text": "Por la puerta se veía el amanecer en el cielo.",
+      "words": [
+        {
+          "word": " Por",
+          "start": 149.14,
+          "end": 149.7,
+          "probability": 0.8841944336891174
+        },
+        {
+          "word": " la",
+          "start": 149.7,
+          "end": 149.92,
+          "probability": 0.9981563687324524
+        },
+        {
+          "word": " puerta",
+          "start": 149.92,
+          "end": 150.26,
+          "probability": 0.9997135996818542
+        },
+        {
+          "word": " se",
+          "start": 150.26,
+          "end": 150.48,
+          "probability": 0.9981209635734558
+        },
+        {
+          "word": " veía",
+          "start": 150.48,
+          "end": 150.94,
+          "probability": 0.9997163116931915
+        },
+        {
+          "word": " el",
+          "start": 150.94,
+          "end": 151.06,
+          "probability": 0.9894821643829346
+        },
+        {
+          "word": " amanecer",
+          "start": 151.06,
+          "end": 151.6,
+          "probability": 0.9995280901590983
+        },
+        {
+          "word": " en",
+          "start": 151.6,
+          "end": 151.72,
+          "probability": 0.9992270469665527
+        },
+        {
+          "word": " el",
+          "start": 151.72,
+          "end": 151.88,
+          "probability": 0.9998440742492676
+        },
+        {
+          "word": " cielo.",
+          "start": 151.88,
+          "end": 152.32,
+          "probability": 0.9997469782829285
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 153.4,
+      "end": 155.02,
+      "text": "No había estrellas.",
+      "words": [
+        {
+          "word": " No",
+          "start": 153.4,
+          "end": 153.96,
+          "probability": 0.9976644515991211
+        },
+        {
+          "word": " había",
+          "start": 153.96,
+          "end": 154.16,
+          "probability": 0.9995600581169128
+        },
+        {
+          "word": " estrellas.",
+          "start": 154.16,
+          "end": 155.02,
+          "probability": 0.9986361463864645
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 156.12,
+      "end": 162.06,
+      "text": "Solo un cielo plomizo, gris, aún no aclarado por la luminosidad del sol.",
+      "words": [
+        {
+          "word": " Solo",
+          "start": 156.12,
+          "end": 156.68,
+          "probability": 0.7294968962669373
+        },
+        {
+          "word": " un",
+          "start": 156.68,
+          "end": 156.86,
+          "probability": 0.9998767375946045
+        },
+        {
+          "word": " cielo",
+          "start": 156.86,
+          "end": 157.14,
+          "probability": 0.9999668598175049
+        },
+        {
+          "word": " plomizo,",
+          "start": 157.14,
+          "end": 157.92,
+          "probability": 0.8891703089078268
+        },
+        {
+          "word": " gris,",
+          "start": 157.94,
+          "end": 158.64,
+          "probability": 0.9999271035194397
+        },
+        {
+          "word": " aún",
+          "start": 158.64,
+          "end": 159.4,
+          "probability": 0.9913654327392578
+        },
+        {
+          "word": " no",
+          "start": 159.4,
+          "end": 159.6,
+          "probability": 0.9999524354934692
+        },
+        {
+          "word": " aclarado",
+          "start": 159.6,
+          "end": 160.24,
+          "probability": 0.9998496373494467
+        },
+        {
+          "word": " por",
+          "start": 160.24,
+          "end": 160.54,
+          "probability": 0.999764621257782
+        },
+        {
+          "word": " la",
+          "start": 160.54,
+          "end": 160.7,
+          "probability": 0.9998537302017212
+        },
+        {
+          "word": " luminosidad",
+          "start": 160.7,
+          "end": 161.54,
+          "probability": 0.9998990297317505
+        },
+        {
+          "word": " del",
+          "start": 161.54,
+          "end": 161.72,
+          "probability": 0.999588668346405
+        },
+        {
+          "word": " sol.",
+          "start": 161.72,
+          "end": 162.06,
+          "probability": 0.9993589520454407
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 163.62,
+      "end": 167.52,
+      "text": "Una luz parda, como si no fuera a comenzar el día,",
+      "words": [
+        {
+          "word": " Una",
+          "start": 163.62,
+          "end": 164.18,
+          "probability": 0.9995593428611755
+        },
+        {
+          "word": " luz",
+          "start": 164.18,
+          "end": 164.44,
+          "probability": 0.9999843835830688
+        },
+        {
+          "word": " parda,",
+          "start": 164.44,
+          "end": 164.96,
+          "probability": 0.999423086643219
+        },
+        {
+          "word": " como",
+          "start": 165.08,
+          "end": 165.74,
+          "probability": 0.999884843826294
+        },
+        {
+          "word": " si",
+          "start": 165.74,
+          "end": 165.96,
+          "probability": 0.999923586845398
+        },
+        {
+          "word": " no",
+          "start": 165.96,
+          "end": 166.1,
+          "probability": 0.9998811483383179
+        },
+        {
+          "word": " fuera",
+          "start": 166.1,
+          "end": 166.38,
+          "probability": 0.9998717308044434
+        },
+        {
+          "word": " a",
+          "start": 166.38,
+          "end": 166.5,
+          "probability": 0.9909332990646362
+        },
+        {
+          "word": " comenzar",
+          "start": 166.5,
+          "end": 167.02,
+          "probability": 0.9999531507492065
+        },
+        {
+          "word": " el",
+          "start": 167.02,
+          "end": 167.18,
+          "probability": 0.999782383441925
+        },
+        {
+          "word": " día,",
+          "start": 167.18,
+          "end": 167.52,
+          "probability": 0.9997797608375549
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 167.64,
+      "end": 171.36,
+      "text": "sino como si apenas estuviera llegando el principio de la noche.",
+      "words": [
+        {
+          "word": " sino",
+          "start": 167.64,
+          "end": 167.9,
+          "probability": 0.9986874461174011
+        },
+        {
+          "word": " como",
+          "start": 167.9,
+          "end": 168.14,
+          "probability": 0.9999103546142578
+        },
+        {
+          "word": " si",
+          "start": 168.14,
+          "end": 168.32,
+          "probability": 0.9999767541885376
+        },
+        {
+          "word": " apenas",
+          "start": 168.32,
+          "end": 168.64,
+          "probability": 0.9998383522033691
+        },
+        {
+          "word": " estuviera",
+          "start": 168.64,
+          "end": 169.28,
+          "probability": 0.9964869618415833
+        },
+        {
+          "word": " llegando",
+          "start": 169.28,
+          "end": 169.82,
+          "probability": 0.9997944831848145
+        },
+        {
+          "word": " el",
+          "start": 169.82,
+          "end": 169.94,
+          "probability": 0.9982295632362366
+        },
+        {
+          "word": " principio",
+          "start": 169.94,
+          "end": 170.4,
+          "probability": 0.9995843768119812
+        },
+        {
+          "word": " de",
+          "start": 170.4,
+          "end": 170.74,
+          "probability": 0.9993464350700378
+        },
+        {
+          "word": " la",
+          "start": 170.74,
+          "end": 170.84,
+          "probability": 0.9999531507492065
+        },
+        {
+          "word": " noche.",
+          "start": 170.84,
+          "end": 171.36,
+          "probability": 0.9997822642326355
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 173.88,
+      "end": 176.3,
+      "text": "Afuera, en el patio, los pasos, los pasos de la noche, los pasos de la noche,",
+      "words": [
+        {
+          "word": " Afuera,",
+          "start": 173.88,
+          "end": 174.44,
+          "probability": 0.999203642209371
+        },
+        {
+          "word": " en",
+          "start": 174.44,
+          "end": 174.58,
+          "probability": 0.9997727274894714
+        },
+        {
+          "word": " el",
+          "start": 174.58,
+          "end": 174.7,
+          "probability": 0.9996463060379028
+        },
+        {
+          "word": " patio,",
+          "start": 174.7,
+          "end": 175.16,
+          "probability": 0.9997536540031433
+        },
+        {
+          "word": " los",
+          "start": 175.26,
+          "end": 175.44,
+          "probability": 0.9980257749557495
+        },
+        {
+          "word": " pasos,",
+          "start": 175.44,
+          "end": 176.18,
+          "probability": 0.9990158379077911
+        },
+        {
+          "word": " los",
+          "start": 176.18,
+          "end": 176.3,
+          "probability": 0.5211042761802673
+        },
+        {
+          "word": " pasos",
+          "start": 176.3,
+          "end": 176.3,
+          "probability": 0.5635416209697723
+        },
+        {
+          "word": " de",
+          "start": 176.3,
+          "end": 176.3,
+          "probability": 0.49843546748161316
+        },
+        {
+          "word": " la",
+          "start": 176.3,
+          "end": 176.3,
+          "probability": 0.9736903309822083
+        },
+        {
+          "word": " noche,",
+          "start": 176.3,
+          "end": 176.3,
+          "probability": 0.9282230734825134
+        },
+        {
+          "word": " los",
+          "start": 176.3,
+          "end": 176.3,
+          "probability": 0.7637704610824585
+        },
+        {
+          "word": " pasos",
+          "start": 176.3,
+          "end": 176.3,
+          "probability": 0.9989670515060425
+        },
+        {
+          "word": " de",
+          "start": 176.3,
+          "end": 176.3,
+          "probability": 0.9581630229949951
+        },
+        {
+          "word": " la",
+          "start": 176.3,
+          "end": 176.3,
+          "probability": 0.9995243549346924
+        },
+        {
+          "word": " noche,",
+          "start": 176.3,
+          "end": 176.3,
+          "probability": 0.9966645836830139
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 176.32,
+      "end": 180.18,
+      "text": "como de gente que ronda, ruidos callados.",
+      "words": [
+        {
+          "word": " como",
+          "start": 176.32,
+          "end": 176.64,
+          "probability": 0.9041928052902222
+        },
+        {
+          "word": " de",
+          "start": 176.64,
+          "end": 176.76,
+          "probability": 0.9994737505912781
+        },
+        {
+          "word": " gente",
+          "start": 176.76,
+          "end": 177.02,
+          "probability": 0.9998387098312378
+        },
+        {
+          "word": " que",
+          "start": 177.02,
+          "end": 177.4,
+          "probability": 0.99978107213974
+        },
+        {
+          "word": " ronda,",
+          "start": 177.4,
+          "end": 177.92,
+          "probability": 0.9989839792251587
+        },
+        {
+          "word": " ruidos",
+          "start": 178.08,
+          "end": 179.32,
+          "probability": 0.9991134107112885
+        },
+        {
+          "word": " callados.",
+          "start": 179.32,
+          "end": 180.18,
+          "probability": 0.9999107122421265
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 181.7,
+      "end": 184.26,
+      "text": "Y aquí, aquella mujer de pie en el umbral,",
+      "words": [
+        {
+          "word": " Y",
+          "start": 181.41,
+          "end": 181.76,
+          "probability": 0.9213857054710388
+        },
+        {
+          "word": " aquí,",
+          "start": 181.76,
+          "end": 182.12,
+          "probability": 0.9986395239830017
+        },
+        {
+          "word": " aquella",
+          "start": 182.2,
+          "end": 182.64,
+          "probability": 0.9997611045837402
+        },
+        {
+          "word": " mujer",
+          "start": 182.64,
+          "end": 182.98,
+          "probability": 0.9998855590820312
+        },
+        {
+          "word": " de",
+          "start": 182.98,
+          "end": 183.22,
+          "probability": 0.9995570778846741
+        },
+        {
+          "word": " pie",
+          "start": 183.22,
+          "end": 183.54,
+          "probability": 0.9992021918296814
+        },
+        {
+          "word": " en",
+          "start": 183.54,
+          "end": 183.7,
+          "probability": 0.9998218417167664
+        },
+        {
+          "word": " el",
+          "start": 183.7,
+          "end": 183.82,
+          "probability": 0.9999700784683228
+        },
+        {
+          "word": " umbral,",
+          "start": 183.82,
+          "end": 184.26,
+          "probability": 0.9995391964912415
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 185.32,
+      "end": 187.68,
+      "text": "su cuerpo impidiendo la llegada del día,",
+      "words": [
+        {
+          "word": " su",
+          "start": 184.99,
+          "end": 185.34,
+          "probability": 0.999356210231781
+        },
+        {
+          "word": " cuerpo",
+          "start": 185.34,
+          "end": 185.72,
+          "probability": 0.9999632835388184
+        },
+        {
+          "word": " impidiendo",
+          "start": 185.72,
+          "end": 186.4,
+          "probability": 0.9998469948768616
+        },
+        {
+          "word": " la",
+          "start": 186.4,
+          "end": 186.6,
+          "probability": 0.999879002571106
+        },
+        {
+          "word": " llegada",
+          "start": 186.6,
+          "end": 187.06,
+          "probability": 0.9989893138408661
+        },
+        {
+          "word": " del",
+          "start": 187.06,
+          "end": 187.3,
+          "probability": 0.9997819066047668
+        },
+        {
+          "word": " día,",
+          "start": 187.3,
+          "end": 187.68,
+          "probability": 0.9999592304229736
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 188.64,
+      "end": 192.16,
+      "text": "dejando asomar a través de sus brazos retazos de cielo",
+      "words": [
+        {
+          "word": " dejando",
+          "start": 188.47,
+          "end": 188.82,
+          "probability": 0.9998193979263306
+        },
+        {
+          "word": " asomar",
+          "start": 188.82,
+          "end": 189.42,
+          "probability": 0.9997608065605164
+        },
+        {
+          "word": " a",
+          "start": 189.42,
+          "end": 189.48,
+          "probability": 0.9988859295845032
+        },
+        {
+          "word": " través",
+          "start": 189.48,
+          "end": 189.8,
+          "probability": 0.9999635219573975
+        },
+        {
+          "word": " de",
+          "start": 189.8,
+          "end": 190.0,
+          "probability": 0.9544349312782288
+        },
+        {
+          "word": " sus",
+          "start": 190.0,
+          "end": 190.22,
+          "probability": 0.9999582767486572
+        },
+        {
+          "word": " brazos",
+          "start": 190.22,
+          "end": 190.84,
+          "probability": 0.9998974204063416
+        },
+        {
+          "word": " retazos",
+          "start": 190.84,
+          "end": 191.68,
+          "probability": 0.9955001870791117
+        },
+        {
+          "word": " de",
+          "start": 191.68,
+          "end": 191.78,
+          "probability": 0.9981743097305298
+        },
+        {
+          "word": " cielo",
+          "start": 191.78,
+          "end": 192.16,
+          "probability": 0.9997407793998718
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 192.16,
+      "end": 195.9,
+      "text": "y debajo de sus pies regueros de luz.",
+      "words": [
+        {
+          "word": " y",
+          "start": 192.16,
+          "end": 193.22,
+          "probability": 0.7882894277572632
+        },
+        {
+          "word": " debajo",
+          "start": 193.22,
+          "end": 193.68,
+          "probability": 0.9981942176818848
+        },
+        {
+          "word": " de",
+          "start": 193.68,
+          "end": 193.8,
+          "probability": 0.9999961853027344
+        },
+        {
+          "word": " sus",
+          "start": 193.8,
+          "end": 193.98,
+          "probability": 0.9999868869781494
+        },
+        {
+          "word": " pies",
+          "start": 193.98,
+          "end": 194.46,
+          "probability": 0.999962329864502
+        },
+        {
+          "word": " regueros",
+          "start": 194.46,
+          "end": 195.54,
+          "probability": 0.9961603283882141
+        },
+        {
+          "word": " de",
+          "start": 195.54,
+          "end": 195.64,
+          "probability": 0.9999767541885376
+        },
+        {
+          "word": " luz.",
+          "start": 195.64,
+          "end": 195.9,
+          "probability": 0.9999524354934692
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 197.64,
+      "end": 202.42,
+      "text": "Una luz asperjada como si el suelo debajo de ella estuviera anegado en lágrimas.",
+      "words": [
+        {
+          "word": " Una",
+          "start": 197.39000000000001,
+          "end": 197.74,
+          "probability": 0.9991437196731567
+        },
+        {
+          "word": " luz",
+          "start": 197.74,
+          "end": 198.0,
+          "probability": 0.9996291399002075
+        },
+        {
+          "word": " asperjada",
+          "start": 198.0,
+          "end": 198.84,
+          "probability": 0.9970059096813202
+        },
+        {
+          "word": " como",
+          "start": 198.84,
+          "end": 199.1,
+          "probability": 0.9954599738121033
+        },
+        {
+          "word": " si",
+          "start": 199.1,
+          "end": 199.36,
+          "probability": 0.9999549388885498
+        },
+        {
+          "word": " el",
+          "start": 199.36,
+          "end": 199.48,
+          "probability": 0.9998314380645752
+        },
+        {
+          "word": " suelo",
+          "start": 199.48,
+          "end": 199.88,
+          "probability": 0.999682605266571
+        },
+        {
+          "word": " debajo",
+          "start": 199.88,
+          "end": 200.28,
+          "probability": 0.9998337626457214
+        },
+        {
+          "word": " de",
+          "start": 200.28,
+          "end": 200.4,
+          "probability": 0.9998526573181152
+        },
+        {
+          "word": " ella",
+          "start": 200.4,
+          "end": 200.64,
+          "probability": 0.9954971075057983
+        },
+        {
+          "word": " estuviera",
+          "start": 200.64,
+          "end": 201.12,
+          "probability": 0.9990800023078918
+        },
+        {
+          "word": " anegado",
+          "start": 201.12,
+          "end": 201.66,
+          "probability": 0.9984875520070394
+        },
+        {
+          "word": " en",
+          "start": 201.66,
+          "end": 201.78,
+          "probability": 0.9996386766433716
+        },
+        {
+          "word": " lágrimas.",
+          "start": 201.78,
+          "end": 202.42,
+          "probability": 0.9999791383743286
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 203.84,
+      "end": 205.26,
+      "text": "Y después el sollozo.",
+      "words": [
+        {
+          "word": " Y",
+          "start": 203.51000000000002,
+          "end": 203.86,
+          "probability": 0.9993113279342651
+        },
+        {
+          "word": " después",
+          "start": 203.86,
+          "end": 204.22,
+          "probability": 0.9997531771659851
+        },
+        {
+          "word": " el",
+          "start": 204.22,
+          "end": 204.5,
+          "probability": 0.9953939914703369
+        },
+        {
+          "word": " sollozo.",
+          "start": 204.5,
+          "end": 205.26,
+          "probability": 0.9665852785110474
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 206.86,
+      "end": 209.74,
+      "text": "Otra vez el llanto suave pero agudo",
+      "words": [
+        {
+          "word": " Otra",
+          "start": 206.86,
+          "end": 207.5,
+          "probability": 0.9404934048652649
+        },
+        {
+          "word": " vez",
+          "start": 207.5,
+          "end": 207.64,
+          "probability": 0.9990276098251343
+        },
+        {
+          "word": " el",
+          "start": 207.64,
+          "end": 207.8,
+          "probability": 0.9960852861404419
+        },
+        {
+          "word": " llanto",
+          "start": 207.8,
+          "end": 208.3,
+          "probability": 0.9997926950454712
+        },
+        {
+          "word": " suave",
+          "start": 208.3,
+          "end": 208.9,
+          "probability": 0.9953285157680511
+        },
+        {
+          "word": " pero",
+          "start": 208.9,
+          "end": 209.1,
+          "probability": 0.9218448996543884
+        },
+        {
+          "word": " agudo",
+          "start": 209.1,
+          "end": 209.74,
+          "probability": 0.9987006187438965
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 210.42000000000002,
+      "end": 213.34,
+      "text": "y la pena haciendo retorcer su cuerpo.",
+      "words": [
+        {
+          "word": " y",
+          "start": 210.42000000000002,
+          "end": 211.06,
+          "probability": 0.5974962711334229
+        },
+        {
+          "word": " la",
+          "start": 211.06,
+          "end": 211.18,
+          "probability": 0.9977019429206848
+        },
+        {
+          "word": " pena",
+          "start": 211.18,
+          "end": 211.64,
+          "probability": 0.9995027780532837
+        },
+        {
+          "word": " haciendo",
+          "start": 211.64,
+          "end": 211.9,
+          "probability": 0.9850015640258789
+        },
+        {
+          "word": " retorcer",
+          "start": 211.9,
+          "end": 212.7,
+          "probability": 0.9617972572644552
+        },
+        {
+          "word": " su",
+          "start": 212.7,
+          "end": 212.9,
+          "probability": 0.9991834759712219
+        },
+        {
+          "word": " cuerpo.",
+          "start": 212.9,
+          "end": 213.34,
+          "probability": 0.9998015761375427
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 214.76,
+      "end": 216.14,
+      "text": "Han matado a tu padre.",
+      "words": [
+        {
+          "word": " Han",
+          "start": 214.52,
+          "end": 214.84,
+          "probability": 0.8947861790657043
+        },
+        {
+          "word": " matado",
+          "start": 214.84,
+          "end": 215.44,
+          "probability": 0.9996918141841888
+        },
+        {
+          "word": " a",
+          "start": 215.44,
+          "end": 215.52,
+          "probability": 0.9998028874397278
+        },
+        {
+          "word": " tu",
+          "start": 215.52,
+          "end": 215.68,
+          "probability": 0.9994298815727234
+        },
+        {
+          "word": " padre.",
+          "start": 215.68,
+          "end": 216.14,
+          "probability": 0.9978206157684326
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 217.42000000000002,
+      "end": 219.9,
+      "text": "¿Y a ti quién te mató, madre?",
+      "words": [
+        {
+          "word": " ¿Y",
+          "start": 217.42000000000002,
+          "end": 218.06,
+          "probability": 0.9718270599842072
+        },
+        {
+          "word": " a",
+          "start": 218.06,
+          "end": 218.14,
+          "probability": 0.9998766183853149
+        },
+        {
+          "word": " ti",
+          "start": 218.14,
+          "end": 218.4,
+          "probability": 0.9996514320373535
+        },
+        {
+          "word": " quién",
+          "start": 218.4,
+          "end": 218.68,
+          "probability": 0.9956256151199341
+        },
+        {
+          "word": " te",
+          "start": 218.68,
+          "end": 218.92,
+          "probability": 0.9999302625656128
+        },
+        {
+          "word": " mató,",
+          "start": 218.92,
+          "end": 219.5,
+          "probability": 0.9998750984668732
+        },
+        {
+          "word": " madre?",
+          "start": 219.54,
+          "end": 219.9,
+          "probability": 0.9979159235954285
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "En el hidrante las gotas caen una tras otra."
+    },
+    {
+      "start": 5.06,
+      "end": 9.82,
+      "text": "Uno oye salida de la piedra, el agua clara caer sobre el cántaro."
+    },
+    {
+      "start": 11.28,
+      "end": 12.18,
+      "text": "Uno oye."
+    },
+    {
+      "start": 13.6,
+      "end": 22.02,
+      "text": "Oye rumores, pies que raspan el suelo, que caminan, que van y vienen."
+    },
+    {
+      "start": 23.74,
+      "end": 26.36,
+      "text": "Las gotas siguen cayendo sin cesar."
+    },
+    {
+      "start": 27.319999999999997,
+      "end": 32.24,
+      "text": "El cántaro se desborda haciendo rodar el agua sobre un suelo mojado."
+    },
+    {
+      "start": 34.76,
+      "end": 36.0,
+      "text": "Despierta, le dicen."
+    },
+    {
+      "start": 38.06,
+      "end": 51.44,
+      "text": "Reconoce el sonido de la voz, trata de adivinar quién es, pero el cuerpo se afloja y cae adormecido, aplastado por el peso del sueño."
+    },
+    {
+      "start": 53.2,
+      "end": 60.28,
+      "text": "Unas manos estiran las cobijas, prendiéndose de la cabeza, y debajo de ellas y debajo de su calor el cuerpo se esconde buscando la paz."
+    },
+    {
+      "start": 63.480000000000004,
+      "end": 65.34,
+      "text": "Despiértate, vuelven a decir."
+    },
+    {
+      "start": 66.8,
+      "end": 73.36,
+      "text": "La voz acude los hombros, hace enderezar el cuerpo, entreabre los ojos."
+    },
+    {
+      "start": 74.44,
+      "end": 80.06,
+      "text": "Se oyen las gotas de agua que caen del hidrante sobre el cántaro raso."
+    },
+    {
+      "start": 80.7,
+      "end": 85.44,
+      "text": "Se oyen pasos que se arrastran, y el llanto."
+    },
+    {
+      "start": 87.46,
+      "end": 89.6,
+      "text": "Entonces oyó el llanto."
+    },
+    {
+      "start": 90.57,
+      "end": 91.86,
+      "text": "Eso lo despertó."
+    },
+    {
+      "start": 92.68,
+      "end": 102.34,
+      "text": "Un llanto suave, delgado, que quizá por delgado pudo traspasar la maraña del sueño llegando hasta el lugar donde anidan los sobresaltos."
+    },
+    {
+      "start": 106.12,
+      "end": 115.34,
+      "text": "Se levantó despacio y vio la cara de una mujer recostada contra el marco de la puerta, oscurecida todavía por la noche, sollozando."
+    },
+    {
+      "start": 117.62,
+      "end": 119.7,
+      "text": "¿Por qué lloras, madre?"
+    },
+    {
+      "start": 120.46,
+      "end": 121.04,
+      "text": "preguntó."
+    },
+    {
+      "start": 122.28,
+      "end": 126.8,
+      "text": "Pues en cuanto puso los pies en el suelo reconoció el rostro de su madre."
+    },
+    {
+      "start": 127.96,
+      "end": 130.24,
+      "text": "Tu padre ha muerto, le dijo."
+    },
+    {
+      "start": 131.82000000000002,
+      "end": 146.32,
+      "text": "Y luego, como si le hubieran soltado los resortes de su pena, se dio vuelta sobre sí misma una y otra vez, una y otra vez, hasta que unas manos llegaron hasta sus hombros y lograron detener el rebullir de su cuerpo."
+    },
+    {
+      "start": 149.14,
+      "end": 152.32,
+      "text": "Por la puerta se veía el amanecer en el cielo."
+    },
+    {
+      "start": 153.4,
+      "end": 155.02,
+      "text": "No había estrellas."
+    },
+    {
+      "start": 156.12,
+      "end": 162.06,
+      "text": "Solo un cielo plomizo, gris, aún no aclarado por la luminosidad del sol."
+    },
+    {
+      "start": 163.62,
+      "end": 171.36,
+      "text": "Una luz parda, como si no fuera a comenzar el día, sino como si apenas estuviera llegando el principio de la noche."
+    },
+    {
+      "start": 173.88,
+      "end": 180.18,
+      "text": "Afuera, en el patio, los pasos, los pasos de la noche, los pasos de la noche, como de gente que ronda, ruidos callados."
+    },
+    {
+      "start": 181.41,
+      "end": 195.9,
+      "text": "Y aquí, aquella mujer de pie en el umbral, su cuerpo impidiendo la llegada del día, dejando asomar a través de sus brazos retazos de cielo y debajo de sus pies regueros de luz."
+    },
+    {
+      "start": 197.39000000000001,
+      "end": 202.42,
+      "text": "Una luz asperjada como si el suelo debajo de ella estuviera anegado en lágrimas."
+    },
+    {
+      "start": 203.51000000000002,
+      "end": 205.26,
+      "text": "Y después el sollozo."
+    },
+    {
+      "start": 206.86,
+      "end": 213.34,
+      "text": "Otra vez el llanto suave pero agudo y la pena haciendo retorcer su cuerpo."
+    },
+    {
+      "start": 214.52,
+      "end": 216.14,
+      "text": "Han matado a tu padre."
+    },
+    {
+      "start": 217.42000000000002,
+      "end": 219.9,
+      "text": "¿Y a ti quién te mató, madre?"
+    }
+  ]
+}

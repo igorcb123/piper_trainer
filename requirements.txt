@@ -1,0 +1,5 @@
+yt-dlp
+openai-whisper
+torch
+# Note: ffmpeg is a system dependency (install via package manager). "torch" may require a specific install
+# command for CUDA; see https://pytorch.org for platform-specific wheels.
