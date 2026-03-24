@@ -1,5 +1,11 @@
-yt-dlp
+faster-whisper>=1.1.0
+
+# Existing transcription / dataset pipeline dependencies
 openai-whisper
 torch
-# Note: ffmpeg is a system dependency (install via package manager). "torch" may require a specific install
-# command for CUDA; see https://pytorch.org for platform-specific wheels.
+yt-dlp
+
+# Note:
+# - ffmpeg is a system dependency (required for audio decoding/extraction).
+# - torch may need a platform/GPU-specific installation command:
+#   https://pytorch.org/get-started/locally/

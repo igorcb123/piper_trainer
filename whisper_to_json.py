@@ -4,9 +4,15 @@ import re
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-import math
-import torch
-import whisper
+try:
+    import torch
+except ModuleNotFoundError:  # pragma: no cover - runtime dependency
+    torch = None  # type: ignore[assignment]
+
+try:
+    import whisper
+except ModuleNotFoundError:  # pragma: no cover - runtime dependency
+    whisper = None  # type: ignore[assignment]
 
 
 DEFAULT_MODEL = "large-v3"
@@ -19,12 +25,16 @@ def transcribe_audio(
     language: Optional[str],
     normalize_phrases_flag: bool = True,
 ) -> Dict[str, Any]:
+    if whisper is None:
+        raise RuntimeError(
+            "Missing dependency: openai-whisper. Install with `pip install -r requirements.txt`."
+        )
     model = whisper.load_model(model_name)
     options: Dict[str, Any] = {
         "temperature": 0.0,
         "beam_size": 5,
         "condition_on_previous_text": True,
-        "fp16": torch.cuda.is_available(),
+        "fp16": bool(torch and torch.cuda.is_available()),
         "word_timestamps": True,
     }
     if language:
@@ -101,6 +111,106 @@ def build_phrases(segments: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
 
     flush_phrase()
     return phrases
+
+
+def _phrase_duration(phrase: Dict[str, Any]) -> float:
+    start = phrase.get("start")
+    end = phrase.get("end")
+    if not isinstance(start, (int, float)) or not isinstance(end, (int, float)):
+        return 0.0
+    return max(0.0, float(end) - float(start))
+
+
+def _rebuild_phrase_from_words(words: List[Dict[str, Any]]) -> Dict[str, Any]:
+    start = float(words[0].get("start", 0.0))
+    end = float(words[-1].get("end", start))
+    return {
+        "start": start,
+        "end": end,
+        "text": join_words(words),
+        "words": list(words),
+    }
+
+
+def _split_phrase_if_long(phrase: Dict[str, Any], max_dur: float) -> List[Dict[str, Any]]:
+    words = phrase.get("words") or []
+    if not words:
+        return [phrase]
+
+    duration = _phrase_duration(phrase)
+    if duration <= max_dur:
+        return [phrase]
+
+    chunks: List[Dict[str, Any]] = []
+    current: List[Dict[str, Any]] = []
+
+    for word in words:
+        current.append(word)
+        candidate = _rebuild_phrase_from_words(current)
+        if _phrase_duration(candidate) >= max_dur and len(current) > 1:
+            last = current.pop()
+            chunks.append(_rebuild_phrase_from_words(current))
+            current = [last]
+
+    if current:
+        chunks.append(_rebuild_phrase_from_words(current))
+
+    return chunks
+
+
+def normalize_phrases(
+    phrases: List[Dict[str, Any]],
+    min_dur: float = 1.5,
+    max_dur: float = 7.0,
+) -> List[Dict[str, Any]]:
+    """
+    Normalize phrase durations for downstream dataset building.
+    - Split very long phrases (when word timings are available).
+    - Merge short adjacent phrases to reach `min_dur` when possible.
+    """
+    if not phrases:
+        return []
+
+    split_phrases: List[Dict[str, Any]] = []
+    for phrase in phrases:
+        split_phrases.extend(_split_phrase_if_long(phrase, max_dur=max_dur))
+
+    normalized: List[Dict[str, Any]] = []
+    i = 0
+
+    while i < len(split_phrases):
+        current = split_phrases[i]
+        words = list(current.get("words") or [])
+        start = current.get("start")
+        end = current.get("end")
+        text = (current.get("text") or "").strip()
+
+        while _phrase_duration({"start": start, "end": end}) < min_dur and i + 1 < len(split_phrases):
+            i += 1
+            nxt = split_phrases[i]
+            next_words = list(nxt.get("words") or [])
+            words.extend(next_words)
+            end = nxt.get("end", end)
+            next_text = (nxt.get("text") or "").strip()
+            if text and next_text:
+                text = f"{text} {next_text}"
+            elif next_text:
+                text = next_text
+
+        if words:
+            normalized.append(_rebuild_phrase_from_words(words))
+        else:
+            normalized.append(
+                {
+                    "start": start,
+                    "end": end,
+                    "text": text.strip(),
+                    "words": [],
+                }
+            )
+        i += 1
+
+    return normalized
 
 
 def join_words(words: List[Dict[str, Any]]) -> str:
